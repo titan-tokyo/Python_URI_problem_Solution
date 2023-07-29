@@ -8,6 +8,6 @@ print("TRIANGULO: %.03f"%triangle)
 print("CIRCULO: %.03f"%circle)
 print("TRAPEZIO: %.03f"%trapezium)
 print("QUADRADO: %.03f"%square)
-print("RETANGULA: %.03f"%rectangle)
+print("RETANGULO: %.03f"%rectangle)
 
 
