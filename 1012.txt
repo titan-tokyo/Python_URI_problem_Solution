@@ -1,0 +1,13 @@
+a,b,c = list(map(float,input().split()))
+triangle = (a * c) /2
+circle = 3.14159 * c * c
+trapezium = ((a + b) / 2 ) * c
+square = b * b
+rectangle = a * b
+print("TRIANGULO: %.03f"%triangle)
+print("CIRCULO: %.03f"%circle)
+print("TRAPEZIO: %.03f"%trapezium)
+print("QUADRADO: %.03f"%square)
+print("RETANGULA: %.03f"%rectangle)
+
+
